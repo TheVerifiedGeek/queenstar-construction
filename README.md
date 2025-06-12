@@ -89,16 +89,4 @@ QS Construction, Queenstar Kenya
 
 ---
 
-## 🚀 Deployment (GitHub Pages)
-
-To deploy this project:
-
-1. Push the entire site folder to a GitHub repository (e.g. `queenstar-construction`)
-2. Go to **Settings > Pages**
-3. Set the source to the `main` branch and the root (`/`)
-4. Your site will be live at:  
-   `https://<your-username>.github.io/queenstar-construction/`
-
----
-
 > 🧱 Built with passion for excellence. At Queenstar, we don’t just build — **we shape the future.**
