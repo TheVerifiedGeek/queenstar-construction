@@ -33,10 +33,11 @@ Queenstar Construction Works is a fully licensed and NCA-accredited construction
 - Office blocks and business centers  
 - Government and institutional facilities  
 - Roads, bridges, and feeder networks  
-- Petrol stations and hospitals  
+- Petrol stations and hospitals
+  
 
-➡️ *Visit the [Projects](https://theverifiedgeek.github.io/queenstar-construction/) page to see our portfolio.*
-
+➡️ *Visit the [Projects](./projects.html) page to see our portfolio.*
+https://theverifiedgeek.github.io/queenstar-construction/
 ---
 
 ## 🌐 Website Stack
