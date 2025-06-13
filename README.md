@@ -35,7 +35,7 @@ Queenstar Construction Works is a fully licensed and NCA-accredited construction
 - Roads, bridges, and feeder networks  
 - Petrol stations and hospitals  
 
-➡️ *Visit the [Projects](./projects.html) page to see our portfolio.*
+➡️ *Visit the [Projects](projects.html) page to see our portfolio.*
 
 ---
 
